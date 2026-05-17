@@ -6,12 +6,17 @@ Molecular Biologist | NGS Specialist | Transitioning to Bioinformatics & Data Sc
 Former Laboratory Head. Expertise: Illumina sequencing, Tecan automation, genomic workflows.
 Building computational genomics portfolio in Python & SQL.
 
-## Current toolkit
+## Current focus
 
-- Python (pandas, numpy, matplotlib)
-- SQL (PostgreSQL basics)
-- Linux / Bash
-- Git / GitHub
-- NGS analysis
-- FASTQ / BAM / VCF processing
-- Experimental design
+Learning:
+
+- Python
+- SQL
+- Bioinformatics
+- Data science
+
+## Projects
+
+- NGS quality control
+- Variant analysis
+- Lab automation simulation
