@@ -1,16 +1,17 @@
-## Hi there 👋
+# Denis Ulko
 
-<!--
-**denisulko/denisulko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Molecular Biologist | NGS Specialist | Transitioning to Bioinformatics & Data Science
 
-Here are some ideas to get you started:
+10+ years in molecular genetics, sequencing workflows, lab automation.
+Former Laboratory Head. Expertise: Illumina sequencing, Tecan automation, genomic workflows.
+Building computational genomics portfolio in Python & SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current toolkit
+
+- Python (pandas, numpy, matplotlib)
+- SQL (PostgreSQL basics)
+- Linux / Bash
+- Git / GitHub
+- NGS analysis
+- FASTQ / BAM / VCF processing
+- Experimental design
